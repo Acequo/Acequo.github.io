@@ -1,11 +1,11 @@
-title: ♡ alexine # name of the site
-author: Alexine Le Port # name of site's author
-email: jalexine@gmail.com # email of site's author
-url: https://jalexine.github.io # root address of the site
+title: ⊹ acequo # name of the site
+author: Acequo Exe # name of site's author
+email: acequotm@gmail.com # email of site's author
+url: https://acequo.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed) 
-  <p> <span style="color: #FFFFFF; font-size: 1.2em;">上帝保佑你</span> <br> Here's my only fixed address <br> i travel, run a small clothing business and study CS (MSc) <br> always interested in working on cool projects : feel free to reach out! <br>  <br> > doing a retreat somewhere in europe <br>  <br> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span>  <a href="https://open.spotify.com/user/auwtkox85ovn7ahyyvuv64gql?si=cded6bf4e4ac4a8f" style="color: #FFFFFF;">
-    <span style="color: #FFFFFF;">  listen to my sick playlists </span> </a> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span> <br> <br> interest : bio/ml, computer arch, theology, philosophy, music, arts, poetry, opera, theater, horror, books, hiking, experiencing, learning... <br> <br> sweet hate : journalism, ideology, <a href="/assets/badfaith.pdf" target="_blank" style="color: #FFFFFF;">this</a>, advertising, 2-factor authentication and Windows   <br> </p>
+  <p> <span style="color: #FFFFFF; font-size: 1.2em;"Onye na-achụ nrọ</span> <br> Here's my only fixed address <br> i trade forex, run a small media company and study Psychology (MSc) <br> always interested in investing in good projects : feel free to reach out! <br>  <br> > doing a retreat somewhere in earth <br>  <br> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span>  <a href="https://music.youtube.com/playlist?list=PLXkLxioU1zl78xolDiPN0bJgKRUOWOehA&si=szIp-Ix7VteozFWq" style="color: #FFFFFF;">
+    <span style="color: #FFFFFF;">  listen to my cool playlists </span> </a> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span> <br> <br> interest : investments, comp sec, research, philosophy, music, arts, literature, IOT, documentaries, photography, books, hiking, experiencing, learning... <br> <br> sweet hate : hedonism, apathy, <a href="/assets/badfaith.pdf" target="_blank" style="color: #FFFFFF;">this</a>, retards, all CHF pairs and Windows   <br> </p>
 
 permalink: /:slug.html
 
