@@ -1,0 +1,23 @@
+/* Override pink theme colors with red */
+:root {
+  --accent: #c0392b !important; /* main red */
+  --accent-dark: #a93226 !important;
+}
+
+a,
+strong,
+em,
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.highlight,
+.btn, .button, .tag {
+  color: #c0392b !important;
+}
+
+a:hover,
+.btn:hover,
+.button:hover {
+  color: #fff !important;
+  background-color: #c0392b !important;
+  border-color: #a93226 !important;
+}
