@@ -2,20 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
  
 entries:
-  - title: <b> take a look at  </b>
+  - title: <b> check this out  </b>
     entries:
-      - title: my naive articles... >
+      - title: my simple articles... >
         url: archive.html
 
 
   - title: <b> my links  </b>
     entries:
       - title: insta
-        url: https://www.instagram.com/jalexinee/
-      - title: marry me
-        url: https://www.linkedin.com/in/jalexineleport/
+        url: https://www.instagram.com/acequo_exe/
+      - title: me yapping
+        url: https://x.com/acequo/
       - title: hire me ♡
-        url: mailto:alexine.leport@gmail.com
+        url: mailto:acequotm@gmail.com
   # - title: kategori-1
   #   post_list:
   #     category: example2
