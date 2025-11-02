@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "performatively run a llm locally"
+title: "Effectively do technical analysis"
 category: example
 ---
 
-<span style="color:white"> Want to run performatively a LLM on your phone just like me?
+<span style="color:white"> Want to effectively do technical analysis on your the fly just like me?
 
 Here’s how..</span>
+
 
 
 <p align="center">
