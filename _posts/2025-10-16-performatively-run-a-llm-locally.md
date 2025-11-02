@@ -13,25 +13,24 @@ Here’s how..</span>
 <p align="center">
   <img src="assets/mattisdoviereyes.gif" alt="mattisdovier" width="500" style="height:auto;" />
 </p>
-*Mattis Dovier*
+*Mentor - mentee*
 
 
-## <span style="color: white;">1. Device </span>
+## <span style="color: white;">1. Beginning </span>
   
 
-If you’re on **Android**, start by downloading **Termux** from [F-Droid](https://f-droid.org/en/packages/com.termux/).  
-If iOS, I guess [iSHell](https://apps.apple.com/us/app/ish-shell/id1436902243).  
+In trading, one of the most effective yet overlooked techniques is **Top-down analysis**, starting by aligning multiple timeframes to create high-probability setups. Most traders often enter based on a single timeframe pattern and get stopped out because they’ve ignored the bigger picture. Here, i’ll break down how to apply it step-by-step, and walk through real examples that show its effectiveness.
 
-Termux basically gives you a Linux terminal on your phone. It’s where you’ll run commands, clone repositories, and compile the model.  
-Once it’s installed, you can already run smaller models, like **Phi-3 mini** or **Mistral 7B quantized**, directly on your device.  
+A common mistake is trading off a bullish lower timeframe signal without considering the higher timeframe context. For example, a bullish order block might appear attractive on a 15-minute chart, but if the daily chart is showing bearish expansion, that lower timeframe setup is more likely to fail. When you align all your timeframes in the same direction, you get the kind of price expansion that creates high probability trades.
 
-Don’t expect full **gpt4** power. The goal here isn’t to replace ChatGPT, it’s just to experiment, play...  
-You’ll see the model responding in your terminal, offline, with zero cloud connection.  
+Don’t expect a 100 percent win rate. The goal here isn’t to be perfect, it’s just to execute, and be effective.
+You’ll see your trading experience responding in uniform.
+
 
 <br>
 
-<span style="color:white"> If you’re on a **PC or laptop**, everything is also possible here.  
-You can follow this performative article to get started, but if you want stable performance and efficiency, follow a serious setup ressource </span>
+<span style="color:white"> If you’re on a **Noob or Pro trader**, everything is also possible here.
+You can follow this effective article to get started, but if you want stable performance and efficiency, follow me on [**X**]([https://huggingface.co/models](https://x.com/acequo/status/1969947415064269255?s=46))</span>
 
 Your hardware decides everything: RAM, VRAM, and whether your GPU supports CUDA or Metal, that’s what defines how fast your model will run and if it can run..
 You can ask ChatGPT if your device supports the model you want to use.  
